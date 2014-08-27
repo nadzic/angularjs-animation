@@ -1,6 +1,6 @@
 angularjs-animation
 ===================
 
-Web app with angularjs and css3
+Single web app with angularjs and css3. We are animating also ng-view.
 
-Singl
+Demo: http://adzic.si/sample1/
